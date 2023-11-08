@@ -360,7 +360,6 @@ i.fa.fa-angle-left {
 .about_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
     height: 53px;
     width: 50px;
     left: -70px;
@@ -515,7 +514,6 @@ i.fa.fa-angle-left {
 .services_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
     height: 53px;
     width: 50px;
     left: -70px;
@@ -728,7 +726,6 @@ i.fa.fa-angle-left {
 .shop_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
     height: 53px;
     width: 50px;
     left: -70px;
@@ -813,7 +810,6 @@ i.fa.fa-angle-left {
 .frequently_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
     height: 53px;
     width: 50px;
     left: -70px;
@@ -893,7 +889,6 @@ i.fa.fa-angle-left {
 .clients_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
     height: 53px;
     width: 50px;
     left: -70px;
@@ -1008,7 +1003,7 @@ i.fa.fa-angle-left {
 .contact_taital::after {
     content: '';
     position: absolute;
-    background-image: url(../images/cup-icon.png);
+
     height: 53px;
     width: 50px;
     left: 0px;
@@ -1284,4 +1279,7 @@ input.mail_text::placeholder {
 
 .margin_90 {
     margin: 90px 0px;
+}
+i{
+    color: #8C7C0F;
 }
