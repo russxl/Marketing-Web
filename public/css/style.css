@@ -250,7 +250,7 @@ button {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #f3801f;
+    color: #254069;
 }
 
 .login_menu {
@@ -288,7 +288,7 @@ button {
     position: absolute;
     left: 62px;
     top: 75%;
-    background: #f3801f;
+    background: #254069;
     color: #fff;
 }
 
@@ -315,7 +315,7 @@ button {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-    background: #f3801f;
+    background: #254069;
     color: #ffffff;
 }
 
@@ -390,7 +390,7 @@ i.fa.fa-angle-left {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #f3801f;
+    background-color: #254069;
     text-align: center;
     padding: 12px 0px;
 }
@@ -409,7 +409,7 @@ i.fa.fa-angle-left {
     position: absolute;
     left: 37px;
     top: 40%;
-    background: #f3801f;
+    background: #254069;
     color: #fff;
 }
 
@@ -436,7 +436,7 @@ i.fa.fa-angle-left {
 #my_main_slider .carousel-control-next:hover,
 #my_main_slider .carousel-control-prev:focus,
 #my_main_slider .carousel-control-next:focus {
-    background: #f3801f;
+    background: #254069;
     color: #ffffff;
 }
 
@@ -574,7 +574,7 @@ i.fa.fa-angle-left {
 .border_10 {
     width: 5px;
     float: left;
-    background-color: #f3801f;
+    background-color: #254069;
     height: 100px;
 }
 
@@ -598,7 +598,7 @@ i.fa.fa-angle-left {
 }
 
 .box_main:hover {
-    background-color: #f3801f;
+    background-color: #254069;
 }
 
 .box_main:hover .border_10 {
@@ -606,7 +606,7 @@ i.fa.fa-angle-left {
 }
 
 .box_main.active {
-    background-color: #f3801f;
+    background-color: #254069;
 }
 
 .box_main.active .border_10 {
@@ -633,7 +633,7 @@ i.fa.fa-angle-left {
 
 .see_bt a:hover {
     color: #ffffff;
-    background-color: #f3801f;
+    background-color: #254069;
 }
 
 .choose_section {
@@ -768,7 +768,7 @@ i.fa.fa-angle-left {
     left: -200px;
     top: 43%;
     background-color: #f1f1f1;
-    color: #f3801f;
+    color: #254069;
 }
 
 #my_slider .carousel-control-prev,
@@ -787,7 +787,7 @@ i.fa.fa-angle-left {
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-next:focus {
     background: #f1f1f1;
-    color: #f3801f;
+    color: #254069;
 }
 
 .fa {
@@ -848,13 +848,13 @@ i.fa.fa-angle-left {
 
 .btn {
     text-align: left;
-    color: #f2882e;
+    color: #254069;
     font-size: 20px;
     font-weight: bold;
 }
 
 .btn-link:hover {
-    color: #f2882e;
+    color: #254069;
 }
 
 .card-header {
@@ -965,7 +965,7 @@ i.fa.fa-angle-left {
 #custum_slider .carousel-control-next {
     width: 68px;
     height: 68px;
-    background: #e37920;
+    background: #254069;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -976,7 +976,7 @@ i.fa.fa-angle-left {
 #custum_slider .carousel-control-next:hover,
 #custum_slider .carousel-control-prev:focus,
 #custum_slider .carousel-control-next:focus {
-    background: #f3801f;
+    background: #254069;
     color: #ffffff;
 }
 
@@ -1062,7 +1062,7 @@ textarea.massage-bt::placeholder {
 }
 
 .main_bt a {
-    background: #e37920;
+    background: #254069;
     border: none;
     color: #fff;
     font-size: 22px;
@@ -1112,7 +1112,7 @@ textarea.massage-bt::placeholder {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #f2882e;
+    color: #254069;
     text-transform: uppercase;
 }
 
@@ -1126,14 +1126,14 @@ textarea.massage-bt::placeholder {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #f2882e;
+    color: #254069;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 }
 
 .subscribe_bt a {
-    color: #f2882e;
+    color: #254069;
     float: right;
 }
 
@@ -1192,7 +1192,7 @@ input.mail_text::placeholder {
 }
 
 .footer_links li a:hover {
-    color: #f2882e;
+    color: #254069;
 }
 
 .padding_left_10 {
@@ -1255,7 +1255,7 @@ input.mail_text::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #262626;
+    background-color: #8C7C0F;
     height: auto;
 }
 
@@ -1275,7 +1275,7 @@ input.mail_text::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #f2882e;
+    color: #254069;
 }
 
 .margin_top_90 {
